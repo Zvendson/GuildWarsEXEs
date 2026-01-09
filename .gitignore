@@ -1,0 +1,5 @@
+# IDA files
+*.id*
+*.nam
+*.til
+*.i64
